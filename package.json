@@ -1,6 +1,6 @@
 {
   "name": "yanxlg-rc-tools",
-  "version": "8.2.1",
+  "version": "8.2.2",
   "description": "offline tools for react component",
   "keywords": [
     "react",
@@ -74,7 +74,7 @@
     "gulp-babel": "^6.1.2",
     "gulp-babel-minify": "^0.2.0",
     "gulp-jsx2example": "^1.2.4",
-    "gulp-less": "3.x",
+    "gulp-less": "^4.0.1",
     "gulp-plugin-prettier": "^1.1.0",
     "gulp-postcss": "^6.1.0",
     "gulp-typescript": "~3.0.2",
